@@ -27,6 +27,8 @@ Tables are denormalised from the JSON Dataset below tables are built.
 
     3. artists - artists in music database
         artist_id, name, location, lattitude, longitude
-
+    
     4. time - timestamps of records in songplays broken down into specific units
         start_time, hour, day, week, month, year, weekday
+<img width="802" alt="Song_ERD" src="https://user-images.githubusercontent.com/56694165/145818252-5733b03d-a786-4074-ad0c-afcc7faf9b72.png">
+
